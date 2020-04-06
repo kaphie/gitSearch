@@ -6,9 +6,12 @@ import { AppComponent } from './app.component';
 import { NavComponent } from './nav/nav.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { SearchUserComponent } from './search-user/search-user.component';
+import {FormsModule} from '@angular/forms';
+import {HttpClientModule} from '@angular/common/http';
 import { UserDataComponent } from './user-data/user-data.component';
 import { UserRepoListComponent } from './user-repo-list/user-repo-list.component';
 import { LogoHighlightDirective } from './logo-highlight.directive';
+import { DatepipePipe } from './datepipe.pipe';
 
 @NgModule({
   declarations: [
@@ -18,11 +21,14 @@ import { LogoHighlightDirective } from './logo-highlight.directive';
     SearchUserComponent,
     UserDataComponent,
     UserRepoListComponent,
-    LogoHighlightDirective
+    LogoHighlightDirective,
+    DatepipePipe
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
