@@ -1,26 +1,59 @@
 # GitSearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+[![BCH compliance](https://bettercodehub.com/edge/badge/kamauvick/gitSearch?branch=master)](https://bettercodehub.com/)
 
-## Development server
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Author
+> Kafrika Benitah.
+## Screenshots
+<img src="src/assets/shot1.png" width="1000">
+<img src="src/assets/shot2.png" width="1000">
 
-## Code scaffolding
+## Installations
+* nodejs
+* npm
+* angularCLI
+* typescript
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Setup
+Run 
 
-## Build
+or download the zip file from github.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+After extracting the files, run 
 
-## Running unit tests
+* 1  .`` cd gitSearch.`` 
+* 2  .``ng serve.``
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+you can also run tests with ``ng test.``
 
-## Running end-to-end tests
+## Technologies used
+* Html5
+* Css3
+* Typescript
+* Bootstrap
+* Angular
+* Github Api's
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## BDD(Behaviour Driven Development)
+| Inputs |  Description |
+| :---         |          ---: |
+| Username  | Github username, ``eg kaphie``|
+
+
+| Outputs |  Description |
+| :---         |          ---: |
+| Profile data  | A specific user profile info.|
+| Repositories   |  All repositories created by a user |
+|     |      |
+
+
+## License
+> MIT License &copy 2020 kaphie 
+
+## Collaborate
+To collaborate, reach me on [bkafrika144@gmail.com]()
 
 ## Further help
 
