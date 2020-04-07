@@ -8,7 +8,7 @@ import {environment} from '../environments/environment';
 })
 export class RepoServiceService {
   _URL = 'https://api.github.com/users/';
-  token = '55d9ccbbc9f6053ef2dc9e1c95196af7a84217e7';
+  token = '?access_token=3cbbddb991c02e7d5a2f0fd4224f9267a5153e5f';
   constructor(public  http: HttpClient) {
   }
 
