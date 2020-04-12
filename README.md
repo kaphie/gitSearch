@@ -1,14 +1,14 @@
 # GitSearch
 
-[![BCH compliance](https://bettercodehub.com/edge/badge/kamauvick/gitSearch?branch=master)](https://bettercodehub.com/)
+[![BCH compliance)](
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
 ## Author
 > Kafrika Benitah.
 ## Screenshots
-<img src="src/assets/shot1.png" width="1000">
-<img src="src/assets/shot2.png" width="1000">
+<img src="">
+<img src="">
 
 ## Installations
 * nodejs
