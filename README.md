@@ -7,8 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Author
 > Kafrika Benitah.
 ## Screenshots
-<img src="">
-<img src="">
+<img src="https://github.com/kaphie/gitSearch/blob/master/src/assets/screencapture-localhost-4200-user-list-2020-04-12-18_31_15.png">
 
 ## Installations
 * nodejs
