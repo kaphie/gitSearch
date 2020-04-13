@@ -1,6 +1,9 @@
 # GitSearch
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
+#### cheack it out
+``https://kaphie.github.io/gitSearch ``
+
 ## Author
 > Kafrika Benitah.
 ## Screenshots
